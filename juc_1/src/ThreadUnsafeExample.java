@@ -30,5 +30,6 @@ public class ThreadUnsafeExample {
         System.out.println(" ");
         System.out.println("develop on dev_1");
         System.out.println("develop on master");
+        System.out.println("develop on dev_2");
     }
 }
