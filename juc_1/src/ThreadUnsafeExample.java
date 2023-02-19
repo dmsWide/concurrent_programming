@@ -31,5 +31,6 @@ public class ThreadUnsafeExample {
         System.out.println("develop on dev_1");
         System.out.println("develop on master");
         System.out.println("develop on dev_2");
+        System.out.println("edit from co-operator");
     }
 }
